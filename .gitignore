@@ -26,3 +26,4 @@ mail-vue/dist
 .wrangler
 .venv
 *.md
+git-tools.js
